@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding animation">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlvZnFhNTZtY2tqNHVndnpxaXI4cnkxYW96dWF1MHZzMzB2MzE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="420" alt="coding animation">
 </div>
 
 ---
