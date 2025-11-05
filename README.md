@@ -1,14 +1,15 @@
-<!-- ⚡ Animated, Professional GitHub Profile README for Anubhav Maurya ⚡ -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C6FF&center=true&vCenter=true&width=550&lines=Hey+there!+👋+I'm+Anubhav+Maurya;Full+Stack+Software+Engineer+💻;Turning+Ideas+into+Digital+Reality+🚀" alt="Typing SVG" />
+<!-- ⚡ Full-Screen Responsive GitHub Profile README for Anubhav Maurya ⚡ -->
+<h1 align="center" style="width:100%;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hey+there!+👋+I'm+Anubhav+Maurya;Full+Stack+Web+Developer+💻;Creating+Beautiful+Digital+Experiences+✨" alt="Cursive Animated Header" style="max-width:100%; height:auto;" />
 </h1>
 
-<h3 align="center">💡 Passionate Software Engineer | MERN Stack Developer | Open Source Contributor</h3>
+
+<h3 align="center">💡 Passionate Software Engineer | MERN Stack Developer | Open Source Enthusiast</h3>
 
 ---
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding animation">
 </div>
 
 ---
@@ -50,15 +51,15 @@
 
 ---
 
-### ⚙️ My GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuuuuu0094&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anuuuuu0094&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuuuuu0094&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anuuuuu0094&theme=tokyonight&hide_border=true" width="47%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuuuuu0094&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=astro" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuuuuu0094&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=astro" width="47%" />
 </div>
 
 ---
@@ -79,18 +80,18 @@
 
 ---
 
-### 🌟 Animation Zone ✨
-<div align="center">
-  <img src="https://github.com/Anubhav-visuals/wave-divider/blob/main/blue-wave.gif?raw=true" width="100%" alt="wave animation" />
-</div>
+###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7D31C&center=true&vCenter=true&width=600&lines=Thanks!+for+visiting+my+profile!+💛;See+you+next-time!+👋+Hope+you+liked+it!+😊" alt="Thank You Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=110&section=header" width="100%" alt="wave divider" />
+</div>
+
+<div align="center" style="width:100%;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&pause=1200&color=FFD700&center=true&vCenter=true&width=1000&lines=Thanks!+for+visiting+my+profile!+💛;See+you+next-time!+👋;Hope+you+liked+it!+😊" alt="Cursive Animated Thank You" style="max-width:100%; height:auto;" />
 </div>
 
 ---
 
-<!-- Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=120&section=footer&text=✨+Anubhav+Maurya+✨&fontSize=20&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=130&section=footer&text=✨+Anubhav+Maurya+✨&fontSize=22&fontColor=ffffff" />
 </p>
