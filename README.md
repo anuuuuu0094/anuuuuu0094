@@ -62,13 +62,13 @@ Below are a few projects that showcase my skills and passion for full-stack deve
   <a href="https://www.linkedin.com/in/anubhavmaurya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/anubhavmaurya" target="_blank">
+  <a href="https://www.facebook.com/anubhav.maurya.184" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/anuuuuu___0094" target="_blank">
+  <a href="https://www.instagram.com/anuuuuu___0094/?__pwa=1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://leetcode.com/anubhav--" target="_blank">
+  <a href="https://leetcode.com/u/anubhav--/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
