@@ -87,7 +87,7 @@ Below are a few projects that showcase my skills and passion for full-stack deve
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuuuuu0094&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="47%" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anuuuuu0094&theme=tokyonight&hide_border=true" width="47%" alt="GitHub streak" />
+ 
 </div>
 
 <div align="center">
